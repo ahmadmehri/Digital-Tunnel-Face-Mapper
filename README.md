@@ -13,6 +13,8 @@ patches and 2-D traces registered to the face photograph.
 
 **Installer:** https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/Digital_Face_Mapping
 
+**Matlab Runtime:**  https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/9/deployment_files/installer/complete/win64/MATLAB_Runtime_R2024b_Update_9_win64.zip
+
 **Sample Data:** https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/Tunnel_Face
 
 ![3-D patches and 2-D traces](docs/images/09-3D%20Patches%20and%202D%20Traces.jpg)
