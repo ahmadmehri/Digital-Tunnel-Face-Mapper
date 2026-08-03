@@ -7,7 +7,7 @@ face and returns per-set orientation, persistence, spacing and joint frequency â
 the geometric inputs of rock mass classification â€” together with 3-D joint
 patches and 2-D traces registered to the face photograph.
 
-![Demo](docs/images/Toward Tunnel Face Mapping Automation.mp4)
+[![Watch the walkthrough](https://img.youtube.com/vi/bSwrE7h16QQ/maxresdefault.jpg)]([https://youtu.be/bSwrE7h16QQ](https://youtu.be/AmI14mFLLYw))
 
 **Installer:** https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/Digital_Face_Mapping
 
