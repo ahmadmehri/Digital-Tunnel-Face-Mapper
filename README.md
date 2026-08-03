@@ -7,6 +7,7 @@ face and returns per-set orientation, persistence, spacing and joint frequency â
 the geometric inputs of rock mass classification â€” together with 3-D joint
 patches and 2-D traces registered to the face photograph.
 
+Installer: https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/Digital_Face_Mapping
 
 ![3-D patches and 2-D traces](docs/images/09-3D%20Patches%20and%202D%20Traces.jpg)
 
