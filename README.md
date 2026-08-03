@@ -9,6 +9,8 @@ patches and 2-D traces registered to the face photograph.
 
 [![Watch the demo](https://img.youtube.com/vi/AmI14mFLLYw/maxresdefault.jpg)](https://youtu.be/AmI14mFLLYw)
 
+▶ [Full nine-stage walkthrough](https://youtu.be/bSwrE7h16QQ)
+
 **Installer:** https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/Digital_Face_Mapping
 
 **Sample Data:** https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/Tunnel_Face
