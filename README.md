@@ -11,7 +11,8 @@ patches and 2-D traces registered to the face photograph.
 
 ▶ [Full nine-stage walkthrough](https://youtu.be/bSwrE7h16QQ)
 
-**Installer:** [https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/Digital_Face_Mapping](https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/digitall_tunnel_face_mapping)
+**Installer:** [[https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/Digital_Face_Mapping](https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/digitall_tunnel_face_mapping)](https://github.com/ahmadmehri/Digital-Tunnel-Face-Mapper/releases/tag/Tunnel_Face_Discontinuity_Set_Extractor)
+
 
 **Matlab Runtime:**  https://ssd.mathworks.com/supportfiles/downloads/R2024b/Release/9/deployment_files/installer/complete/win64/MATLAB_Runtime_R2024b_Update_9_win64.zip
 
